@@ -27,7 +27,7 @@ _~~나중에 자동화 생각중~~_
 
 **배운것들**
 - - -
-_내용을 입력해주세요_
+- [[ROOT] HttpProtocol이란?](https://github.com/key-del-jeeinho/TIL/web/root/http-protocol.md)
 
 
 **해온것들**
@@ -36,7 +36,7 @@ _내용을 입력해주세요_
 
 ![](https://img.shields.io/badge/since-2021.10.05-FA5996)
 ![](https://img.shields.io/badge/author-JeeInho-5BE1C8)
-![](https://img.shields.io/badge/combo-zero-0A4DC8)
+![](https://img.shields.io/badge/combo-1-0A4DC8)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkey-del-jeeinho%2FTIL&count_bg=%2379C83D&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=TIL-Challagne&edge_flat=false)](https://hits.seeyoufarm.com)
 
