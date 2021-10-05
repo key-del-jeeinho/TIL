@@ -27,7 +27,7 @@ _~~나중에 자동화 생각중~~_
 
 **배운것들**
 - - -
-- [[ROOT] HttpProtocol이란?](https://github.com/key-del-jeeinho/TIL/web/root/http-protocol.md)
+- [[ROOT | 2021.10.05] HttpProtocol이란?](https://github.com/key-del-jeeinho/TIL/blob/main/web/root/http-protocol.md)
 
 
 **해온것들**
