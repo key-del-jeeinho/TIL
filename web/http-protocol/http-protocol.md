@@ -1,4 +1,4 @@
-# HTTP | 2021-10-05
+# HTTP-Protocol | 2021-10-05
 ## What is Http?
 > HTTP 가 뭐죠?
 
