@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/topic-web-525396)
 ![](https://img.shields.io/badge/since-2021.10.05-FA5996)
-![](https://img.shields.io/badge/updated-2021.10.06-A5996)
+![](https://img.shields.io/badge/updated-2021.10.07-A5996)
 ## 해당 토픽에서 다루는 내용
 - HTTP Method, HyperText 등의 WEB 표준기술
 - HTTP, HTTPS 같은 웹 프로토콜

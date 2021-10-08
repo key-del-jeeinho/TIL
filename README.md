@@ -29,11 +29,17 @@ web, android 등, TIL 작성에 대한 분야별 분류이다
 - Issue 폴더 : issue 와 해당 issue 에 대한 하위 issue 를 담는 폴더이다.
 - ${issueName}.md (Issue 컨텐츠) : 이슈 내용이 작성된 파일이다
 - 하위 Issue 폴더 : 특정 Issue 에 대해 연계되어 작성된 Issue 를 담는 폴더를 뜻한다
-### Conventions
+### Conventions (배운것들)
 - Topic 폴더는 항상 저장소 root 에 있어야한다
 - 모든 Topic 폴더내에는 Topic 인트로가 존재해야한다
 - Issue 폴더는 하나의 Issue 컨텐츠와 0개 이상의 하위 Issue 폴더를 가져야 한다.
 - 하위 Issue 폴더 또한 Issue 폴더로 상정한다 (즉, 하위 Issue 폴더 또한 하나의 Issue 컨텐츠와 0개이상의 하위 Issue 폴더를 가져야 한다)
+
+### Conventions (해온것들)
+- Topic 폴더는 항상 저장소 root 에 있어야한다
+- 배운것들 Topic 과의 구분을 위해 topic 이름 뒤에 `_` (언더바) 를 붙인다 (ex, web_)
+- 해온 주제 를 가지고 issue 를 구분한다(github branch 등)
+- 가독성을 위해 하위 issue 는 가지지 않고 하나의 issue 폴더에 여러 issue\.md 를 가질 수 있도록 한다
 
 ### Example
 ```
@@ -66,7 +72,7 @@ _내용을 입력해주세요_
 
 ![](https://img.shields.io/badge/since-2021.10.05-FA5996)
 ![](https://img.shields.io/badge/author-JeeInho-5BE1C8)
-![](https://img.shields.io/badge/combo-3-0A4DC8)
+![](https://img.shields.io/badge/combo-4-0A4DC8)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkey-del-jeeinho%2FTIL&count_bg=%2379C83D&title_bg=%23555555&icon=riotgames.svg&icon_color=%23E7E7E7&title=TIL-Challange&edge_flat=false)](https://hits.seeyoufarm.com)
 
