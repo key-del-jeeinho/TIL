@@ -3,7 +3,7 @@
 
 ![](https://img.shields.io/badge/topic-cacophony-525396)
 ![](https://img.shields.io/badge/since-2021.10.08-FA5996)
-![](https://img.shields.io/badge/updated-2021.10.08-A5996)
+![](https://img.shields.io/badge/updated-2021.10.11-A5996)
 ## 해당 토픽에서 다루는 내용
 - 카코포니 기획 및 개발
 - 카코포니 이슈 기록
